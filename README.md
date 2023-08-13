@@ -1,0 +1,2 @@
+# Egitim
+git öğrenme : denemeler
